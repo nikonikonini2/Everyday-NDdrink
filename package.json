@@ -1,0 +1,22 @@
+{
+  "name": "everyday-nddrink",
+  "version": "1.0.0",
+  "description": "\"you need drink water now\"\u001b[D!\u001b[C\"",
+  "main": "indx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nikonikonini2/Everyday-NDdrink.git"
+  },
+  "keywords": [
+    "drink"
+  ],
+  "author": "ikon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikonikonini2/Everyday-NDdrink/issues"
+  },
+  "homepage": "https://github.com/nikonikonini2/Everyday-NDdrink#readme"
+}
